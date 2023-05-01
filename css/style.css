@@ -1,0 +1,65 @@
+body {
+  margin: auto;
+  background-color: #6158cc;
+}
+body main {
+  text-align: center;
+}
+
+.configuration {
+  background-color: #3148ad;
+  padding: 2em;
+  text-align: center;
+}
+.configuration input,
+button {
+  padding: 1.5em;
+}
+
+header .button {
+  background-color: #9b68e4;
+  color: #fff;
+  border: 1px solid #9b68e4;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 1.55em;
+}
+main,
+#invader {
+  margin: 2em auto;
+  display: flex;
+}
+
+footer .switchcolor {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  background-color: #4a45a3;
+  padding: 1em;
+}
+footer button {
+  border: none;
+  margin: 1em;
+  padding: 2em;
+  border-radius: 50%;
+}
+.focused {
+  /* padding: 2em; */
+  border: 3px solid black;
+}
+.cell {
+  border: 2px solid #858686;
+  background-color: #d2dae2;
+}
+.empty {
+  background-color: #d2dae2;
+}
+.plain {
+  background-color: #485460;
+}
+.light {
+  background-color: #fbc048;
+}
+.highlight {
+  background-color: #79ea83;
+}
