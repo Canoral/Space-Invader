@@ -8,8 +8,6 @@
 :black_square_button::white_square_button::black_square_button::black_square_button::white_square_button::black_square_button::black_square_button::white_square_button::black_square_button:
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
-Invader est une application JavaScript qui permet de créer une ardoise de dessin en pixel art dans le style du célèbre jeu Space Invaders.
-
 ## 👾 Space Invaders 👾
 
 Bienvenue dans Space Invaders, un programme permettant de créer des dessins en pixels en ligne !
